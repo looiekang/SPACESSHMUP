@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{7E1DE90A-D574-0ED3-7879-E8AD66B47294}") = "SPACESSHMUP", "Assembly-CSharp.csproj", "{12C980EE-BF7C-F3ED-E671-EB990E279ACD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12C980EE-BF7C-F3ED-E671-EB990E279ACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12C980EE-BF7C-F3ED-E671-EB990E279ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12C980EE-BF7C-F3ED-E671-EB990E279ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12C980EE-BF7C-F3ED-E671-EB990E279ACD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
