@@ -50,7 +50,7 @@ public class Utils : MonoBehaviour
         if (go.GetComponent<Collider>().bounds != null)
         {
             // Expand b to contain the Collider's Bounds
-            
+
         }
         // Recursively iterate through each child of this gameObject.transform
         foreach (Transform t in go.transform)
